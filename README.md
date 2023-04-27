@@ -1,10 +1,10 @@
 <h1 align="left">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello, seja bem vindo ao meu github!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img src="https://giphy.com/stickers/10hC8uSoLSSwQo" width="50">
+<img src="https://media.giphy.com/media/PWFel9FyyD3Hy/giphy.gif" width="50">
 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical) <img src="https://giphy.com/stickers/10hC8uSoLSSwQo" width="50">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical) 
 ## Contatos:
 <div>
 <a href="https://instagram.com/klr.guilherme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
