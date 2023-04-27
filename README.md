@@ -3,7 +3,6 @@
 Hello I'm Kluver Guilherme  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical)
 ## Contatos:
 <div>
