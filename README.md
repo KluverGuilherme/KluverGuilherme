@@ -1,7 +1,7 @@
 <h1 align="left">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello, seja bem vindo ao meu github!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  <img src="https://giphy.com/gifs/street-fighter-ryu-super-ii-Tki7sWHDoepb2" width="50">
+  <img src="https://giphy.com/gifs/street-fighter-ryu-super-ii-Tki7sWHDoepb2" width="100">
 </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical)
