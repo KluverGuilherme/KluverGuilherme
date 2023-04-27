@@ -1,4 +1,4 @@
-## Olá 👋 ## seja bem-vindo ao meu github!
+## Olá 👋 seja bem-vindo ao meu github!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical)
