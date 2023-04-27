@@ -1,7 +1,7 @@
 <h1 align="left">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello, seja bem vindo ao meu github!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  <img src="https://giphy.com/stickers/fighter-am-exploring-3YfjyLHPwvvLW" width="50">
+  <img src="https://giphy.com/stickers/10hC8uSoLSSwQo" width="50">
 </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical)
