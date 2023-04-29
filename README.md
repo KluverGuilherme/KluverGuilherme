@@ -1,5 +1,5 @@
 <h1 align="left">
-Olá, seja bem-vindo ao meu github!  <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="60"> 
+Olá, seja bem-vindo ao meu github!  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="60"> 
 </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical) <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="200">
