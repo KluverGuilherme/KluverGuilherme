@@ -2,7 +2,7 @@
 Olá, seja bem-vindo ao meu github!  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60"> 
 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical) <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="210">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KluverGuilherme&show_icons=true&theme=radical) <img src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif" width="200">
 ## Contatos:
 <div>
 <a href="https://instagram.com/klr.guilherme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
